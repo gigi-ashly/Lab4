@@ -149,7 +149,8 @@ public class Labprogra3 {
                     }
 
                 }
-
+default -> {
+                    System.out.println("Opcion no valida.");
                 }
             }
         }
